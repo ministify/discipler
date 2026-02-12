@@ -3,11 +3,11 @@
   "dashboard": [
     {
       "id": "announcements",
-      "data": "1. BBBC Web link and Android App Launched.\n2. Launching Online Bible Institute Portal for Remote Learning.\n3. IBMP Students (class with Ptr Ray) Should Study for OT Survey Final Exam."
+      "data": "BBBC Web link and Android App Launched.\nLaunching Online Bible Institute Portal for Remote Learning.\nIBMP Students (class with Ptr Ray) Should Study for OT Survey Final Exam."
     },
     {
       "id": "assignments",
-      "data": ">Prepare Class Room before Classes.\n>Welboy and Reynold Take Turns in Song Leading"
+      "data": "Prepare Class Room before Classes.\nWelboy and Reynold Take Turns in Song Leading"
     },
     {
       "id": "pointers",
@@ -15,11 +15,11 @@
     },
     {
       "id": "resources",
-      "data": "Ministry Tools: ministify.com\nStudy: notebooklm.google.com\nAI Agent: gemini.google.com\nResearch: Perplexity"
+      "data": "ministify.com\nnotebooklm.google.com\ngemini.google.com\nPerplexity\nkingbible.org"
     },
     {
       "id": "schedule",
-      "data": "IBMP Classes Schedules\nWith Dr. Gerald Sutek & Ptr. Ray Remalig\n\nMondays: 7:30pm\nTuedays: 7:30pm\nWednedays: 7:00pm\nThursdays: 7:00pm\nFridays: 7:00pm"
+      "data": "IBMP Classes Schedules\nWith Dr. Gerald Sutek & Ptr. Ray Remalig\n\nMondays: 7:30pm - Ptr Ray\nTuedays: 9:00am (Dr. Sutek) / 7:30pm (Ptr. Ray)\nWednedays: 7:00pm\nThursdays: 7:00pm\nFridays: 7:00pm"
     }
   ]
 }

@@ -1,42 +1,25 @@
 {
-  "studies": [
-    {
-      "id": "1770633951671",
-      "title": "Leviticus",
-      "content": [
-        "wqeeeqeeeqweqwe"
-      ],
-      "updated": "2026-02-09T10:46:01.904Z"
-    },
-    {
-      "id": "1770633981504",
-      "title": "King David",
-      "content": [
-        "ewwewfwfrfwefwefwefwefwedfwefsdfwdf"
-      ],
-      "updated": "2026-02-09T10:46:32.721Z"
-    }
-  ],
+  "studies": [],
   "dashboard": [
     {
       "id": "announcements",
-      "data": "rqqwrqwr"
+      "data": "1. BBBC Web link and Android App Launched.\n2. Launching Online Bible Institute Portal for Remote Learning.\n3. IBMP Students (class with Ptr Ray) Should Study for OT Survey Final Exam."
     },
     {
       "id": "assignments",
-      "data": "tryerty"
+      "data": ">Prepare Class Room before Classes.\n>Welboy and Reynold Take Turns in Song Leading"
     },
     {
       "id": "pointers",
-      "data": "rttytry"
+      "data": "FINAL EXAM ON OT SURVEY ON FEB. 16, 2026\n\n1. OT Books Divisions\n2. OT Books Authors"
     },
     {
       "id": "resources",
-      "data": "rttrt"
+      "data": "Ministry Tools: ministify.com\nStudy: notebooklm.google.com\nAI Agent: gemini.google.com\nResearch: Perplexity"
     },
     {
       "id": "schedule",
-      "data": "fewturtrt"
+      "data": "IBMP Classes Schedules\nWith Dr. Gerald Sutek & Ptr. Ray Remalig\n\nMondays: 7:30pm\nTuedays: 7:30pm\nWednedays: 7:00pm\nThursdays: 7:00pm\nFridays: 7:00pm"
     }
   ]
 }

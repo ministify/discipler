@@ -9,28 +9,48 @@
       ],
       "updated": "2026-02-23T07:34:43.562Z",
       "pinned": false
+    },
+    {
+      "id": "1771837537928",
+      "title": "Salvation",
+      "category": "Doctrines",
+      "content": [
+        "This is a New Lesson on the Subject of Salvation."
+      ],
+      "updated": "2026-02-23T09:06:09.011Z",
+      "pinned": false
+    },
+    {
+      "id": "1771838848175",
+      "title": "Dispensation",
+      "category": "Doctrines",
+      "content": [
+        "This is a new lesson about Times&nbsp;"
+      ],
+      "updated": "2026-02-23T09:28:03.593Z",
+      "pinned": false
     }
   ],
   "dashboard": [
     {
       "id": "announcements",
-      "data": ""
+      "data": "Class Tonight at 7:30pm"
     },
     {
       "id": "assignments",
-      "data": ""
+      "data": "Clean Classroom - Reynold is Leading the singing"
     },
     {
       "id": "pointers",
-      "data": ""
+      "data": "Study The Doctrines"
     },
     {
       "id": "resources",
-      "data": ""
+      "data": "ministify.com\narchive.org"
     },
     {
       "id": "schedule",
-      "data": ""
+      "data": "Mondays: 7:30pm\nTuesdays: 7:30pm"
     }
   ]
 }

@@ -1,33 +1,19 @@
 {
   "studies": [
     {
-      "id": "1770973389945",
-      "title": "Genesis",
-      "category": "OT Survey",
+      "id": "1771831548961",
+      "title": "Adoption",
+      "category": "Doctrines",
       "content": [
-        "Test"
+        "Audio:&nbsp;https://archive.org/download/christian-doctrine_202602/System_Architecture_for_the_Soul.m4a<div><br></div><div>Video:&nbsp;https://archive.org/download/christian-doctrine_202602/Christian_Doctrine.mp4</div><div><br></div><div>PDF:&nbsp;https://archive.org/download/christian-doctrine_202602/The_Systematic_Survey_of_Truth.pdf</div><div><br></div><div>IMAGE:&nbsp;https://archive.org/download/christian-doctrine_202602/unnamed.png</div>"
       ],
-      "updated": "2026-02-13T09:06:00.831Z",
+      "updated": "2026-02-23T07:34:43.562Z",
       "pinned": false
-    },
-    {
-      "id": "1770973455547",
-      "title": "Leviticus",
-      "category": "OT Survey",
-      "content": [
-        "/here's this"
-      ],
-      "updated": "2026-02-13T09:04:42.764Z",
-      "pinned": true
     }
   ],
   "dashboard": [
     {
       "id": "announcements",
-      "data": "General Info"
-    },
-    {
-      "id": "schedule",
       "data": ""
     },
     {
@@ -40,6 +26,10 @@
     },
     {
       "id": "resources",
+      "data": ""
+    },
+    {
+      "id": "schedule",
       "data": ""
     }
   ]
